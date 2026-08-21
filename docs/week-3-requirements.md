@@ -85,7 +85,7 @@ Based on the elicitation activities and stakeholder identification, the followin
 - SR-16: The system must support testing of different verification scenarios, including omissions, contradictions, and unsupported information.
 - SR-17: Security controls must be considered throughout the design and development of the verification engine.
 
-## 5. Initial Functional Requirements
+## 5. Initial Functional Requirements (MVE-13)
 
 The following functional requirements describe the main functions that the MedTalk Verification Engine should provide.
 
@@ -100,7 +100,7 @@ The following functional requirements describe the main functions that the MedTa
 - FR-09: The system shall classify or prioritise detected issues according to their importance.
 - FR-10: The system shall record appropriate verification activity for monitoring and troubleshooting.
 
-## 6. Initial Non-Functional Requirements
+## 6. Initial Non-Functional Requirements (MVE-13)
 
 The following non-functional requirements describe the expected quality, security, performance, and usability characteristics of the MedTalk Verification Engine.
 
