@@ -2,6 +2,7 @@
 - Date: 11 August 2026
 - Attendees: Aarju Pradhan, Avash Gharti Magar, Mohammad Hassan, Muhammad Daud Shafique
 - Topic: Group Formation, Project Setup, and Task Allocation
+
 **Notes: Aarju and Avash officially joined the project which completed the group. The full team reviewed the Assessment 1 brief and the FAZ Australia Starter Kit.**  
 
 Action Items: 
